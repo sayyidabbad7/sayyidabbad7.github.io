@@ -222,6 +222,7 @@ h1 {
 }
 
 .grand {
+    align-content: center;
     background-color: honeydew;
     color: black;
     font-size: medium;
